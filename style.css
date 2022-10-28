@@ -1,0 +1,12 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+}
+h1{
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+}
+a{
+    color: blueviolet;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
